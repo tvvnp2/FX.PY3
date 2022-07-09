@@ -1,8 +1,4 @@
 import requests
-done=0
-bad=0
-secure=0
-Block=0
 def instagram_login(user,password):
 	
              
